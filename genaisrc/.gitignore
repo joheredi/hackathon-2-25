@@ -1,0 +1,7 @@
+#GenAIScript
+.genaiscript/
+genaiscript.d.ts
+tsconfig.json
+jsconfig.json
+.env
+node_modules
